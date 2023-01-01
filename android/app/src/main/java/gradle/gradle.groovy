@@ -1,0 +1,5 @@
+package gradle
+
+enum gradle {
+
+}
